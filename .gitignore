@@ -1,19 +1,11 @@
-lib-cov
-*.seed
-*.log
-*.csv
-*.dat
-*.out
-*.pid
-*.gz
-.DS_Store
-.gradle
-.idea
-
-pids
-logs
-results
-
-npm-debug.log
-
+# Project dependencies
+.cache
 node_modules
+yarn-error.log
+
+# Build directory
+/public
+.DS_Store
+
+# secrets
+.env

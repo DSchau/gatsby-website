@@ -1,7 +1,0 @@
-import com.midwestjs.api.Speaker
-
-model {
-	Speaker speaker
-}
-
-json tmpl.speaker(speaker)

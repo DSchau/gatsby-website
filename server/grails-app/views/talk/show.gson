@@ -1,7 +1,0 @@
-import com.midwestjs.api.Talk
-
-model {
-	Talk talk
-}
-
-json tmpl.talk(talk)

@@ -1,7 +1,0 @@
-import com.midwestjs.api.Talk
-
-model {
-    Iterable<Talk> talkList
-}
-
-json tmpl.talk(talkList ?: [])
